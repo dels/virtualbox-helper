@@ -1,0 +1,12 @@
+{
+    "vm_name": "debian01",
+    "vrde_address": "localhost",
+    "vrde_port": "4040",
+    "hd_size_in_gb": "128",
+    "memory_size": "4096",
+    "bridging_iface": "enp2s0",
+    "cpu_count": "2",
+    "ipv6_only_host": "false",
+    "hd_files_directory": "/home/user/VirtualBox\\ VMs",
+    "create_from_iso_file": "/home/user/iso/debian-10.6.0-amd64-netinst.iso"
+}
